@@ -1,4 +1,4 @@
-//Origionally written by Benjamin Hollway
+//Originally written by Benjamin Hollway
 //Date of open source publishing - 19/2/14
 //Licences under MIT
 //nothingrandom.com
