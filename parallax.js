@@ -1,7 +1,4 @@
-//Originally written by Benjamin Hollway
-//Date of open source publishing - 19/2/14
-//Licences under MIT
-//nothingrandom.com
+//https://github.com/nothingrandom/parallax.js
 
 //call function whenever the window is scrolled
 $(window).scroll(function(e){
