@@ -12,6 +12,6 @@ function parallax() {
 	//set it to negative scroll so that is goes at the same speed
 
 	//*x.x is the times faster you want it to scroll
-	//in this case 0.65px
-	$('#div').css('top', -(scrolled * 0.65) + 'px');
+	//in this case 0.65px faster than the scroll speed of the actual website
+	$("#div").css("top", -(scrolled * 0.65) + "px");
 }
