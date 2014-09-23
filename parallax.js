@@ -2,7 +2,7 @@
 
 //call function whenever the window is scrolled
 $(window).scroll(function(e) {
-  parallax();
+	parallax();
 });
 //create function called parallax
 function parallax() {
